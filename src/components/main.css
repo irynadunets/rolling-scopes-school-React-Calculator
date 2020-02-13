@@ -1,0 +1,90 @@
+
+body {
+  background-color: grey;
+  width: 90%;
+  margin: 5%;
+}
+
+.row{
+  display: flex;
+  flex-direction: row;
+  margin:2% 0%;
+}
+
+.LoanLease{
+  width: 60%;
+  margin:0% 0%;
+}
+
+.ui.cards{
+ width:40%;
+ margin: -1% 0.5%;
+}
+
+.row1, .row2{
+  width: 48%;
+  margin:3% 1%;
+  flex-direction: column;
+}
+
+.row3{
+  width:100%;
+  display: flex;
+  flex-direction:row;
+  justify-content: space-between;
+}
+
+.row4{
+  width:100%;
+  margin:3% 0%;
+  display:flex;
+  flex-direction:row;
+  justify-content: space-between;
+}
+
+.row5{
+  width:100%;
+  margin:3% 0%;
+  display:flex;
+  flex-direction:row;
+  justify-content: left ;
+}
+
+.div.ui.right.labeled.input{
+  margin:3% 0%;
+  width:20%;
+}
+
+.column{
+  display: flex;
+  flex-direction: column;
+  width:100%;
+  margin:1% 0%;
+}
+
+.column1{
+  justify-content: left;
+  width:60%;
+}
+
+.column2{
+  margin:3% 0%;
+  justify-content: right;
+}
+
+.ui.breadcrumb a.section {
+  font-size: 80%;
+}
+
+.star{
+  display: inline;
+  margin:3% 0%;
+}
+
+.margin{
+  margin: 3%;
+}
+
+h6{
+  margin-top: 0%;
+}
