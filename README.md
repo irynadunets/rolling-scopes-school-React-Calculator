@@ -6,5 +6,5 @@ The calculator calculates base payment values to lease or loan a car. Taxes calc
 Clone the rolling-scopes-school-React-Calculator repository using git:
 
 git clone https://github.com/irynadunets/rolling-scopes-school-React-Calculator.git
-Next, you need to install packages and run the application.
-start application by comand: npm start
+Next, you need to install packages and run the application
+ and start application by comand: npm start
